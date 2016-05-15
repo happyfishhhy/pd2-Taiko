@@ -53,8 +53,6 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-    QSound *clicksong;
-    QSound *backsong;
 };
 
 #endif // MAINWINDOW_H
