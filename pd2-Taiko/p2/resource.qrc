@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>image/bg.jpg</file>
+        <file>image/bg_p2.jpg</file>
+        <file>image/car.png</file>
+        <file>image/gameover.jpg</file>
+        <file>image/good.jpg</file>
+        <file>image/perfect.jpg</file>
+        <file>image/t08.jpg</file>
+        <file>image/tire1.png</file>
+        <file>image/tire2.png</file>
+        <file>sound/dong.wav</file>
+        <file>sound/ka.wav</file>
+        <file>sound/song.wav</file>
+    </qresource>
+</RCC>
